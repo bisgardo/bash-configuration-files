@@ -1,0 +1,2 @@
+# Ignore case in pathname extension
+shopt -s nocaseglob
